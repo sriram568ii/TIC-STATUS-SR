@@ -1,0 +1,7 @@
+ticket-status-bot/
+ ┣ package.json
+ ┣ server.js
+ ┣ routes/
+ ┃ ┗ status.js
+ ┣ views/
+ ┃ ┗ index.html
